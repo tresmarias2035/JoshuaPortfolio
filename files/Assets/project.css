@@ -1,0 +1,27 @@
+#Projects {
+   
+    height: 100vh;
+    padding: 60px 9% 0;
+    color: #fff;
+    height: 200vh;
+    
+}
+
+.proj img {
+    width: 700px;
+    height: 350px;
+    margin-left: 220px;
+    border: 1px solid #fff700;
+    border-radius: 20px;
+    margin-bottom:100px;
+    box-shadow: 0 0 10px #fff700;
+}
+
+.project  {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+}
+.project h4 {
+    margin-top: 10px;
+}

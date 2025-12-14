@@ -1,0 +1,20 @@
+#Aboutme {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    padding: 60px 9% 0;
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+    animation: show-content 1.5s linear forwards;
+    animation-delay: 1.3s;
+    gap: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.buang {
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+ }

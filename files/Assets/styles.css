@@ -1,0 +1,29 @@
+
+@import "button.css";
+@import "navbar.css";
+
+
+
+@import "project.css";
+@import "about.css";
+@import "bars.css";
+@import "hero-banner.css";
+@import "service.css";
+@import "footer.css";
+@import "card.css";
+@import "contact.css";
+@import "thankyou.css";
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' , sans-serif;
+    background: #1f242d;
+    color: white;
+    
+    
+}
